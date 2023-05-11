@@ -14,6 +14,6 @@
 
 ---
 
-Personally, I do not see AI from a lens of doom and gloom. In the last few years, and specifically since the popularisation of ChatGTP, there has been a great furore over AI. To me, AI represents a set of models that solve problems intelligently. There's nothing romantic or poetic about it. An excellent model---such as ChatGTP---does not automatically become an 'artificial general intelligence' (AGI) that beckons the end of humanity as we know it. AI is an incredibly handy tool that needs to be used with caution. Our models must be free of bias and ethically deployed. We need to understand our models better so that we don't misidentify or misattribute them.
+Personally, I do not see AI from a lens of doom and gloom. In the last few years, and specifically since the popularisation of ChatGTP, there has been a great furore over AI. To me, AI represents a set of models that solve problems intelligently. There's nothing romantic or poetic about it. An excellent model---such as ChatGTP---does not automatically become an 'artificial general intelligence' (AGI) that beckons the end of humanity as we know it. AI is an incredibly handy tool that needs to be used with caution. Our models must be free of bias and ethically deployed. We need to understand our models better so that we don't misidentify, misattribute, and/or misuse them. Nefarious actors will always exist, however, for every [black hat](https://www.wikiwand.com/en/Black_hat_(computer_security)) there's a [white hat](https://www.wikiwand.com/en/White_hat_(computer_security)). 🙃
 
 ---
