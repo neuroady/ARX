@@ -1,13 +1,19 @@
 # A list of arcticles I have co-authored with Dr. Sukant Khurana and others.
+
+<br>
+
+**Please be advised that the articles I refer to have been re-edited since their first publication without consulting me. They may no longer articulate my personal views.** I have not been associated with [Dr. Khurana](https://scholar.google.com/citations?user=LiTpdBYAAAAJ) since March 2018, and do not associate myself with any of his personal views or undertakings. During my internship with Dr. Khurana, he was a scientist at the [Center for Scientific and Industrial Research-Central Drug Research Institute](https://cdri.res.in/). Shortly after my internship, he left the institute and undertook personal projects including a series of TEDx talks. I do not agree with his views in those videos.<br><br>During my internship, I learned a lot about AI and the philosophical arguments about ethics. I also honed my English-writing skills and that has been of immense help in my personal and professional work. I neither wish to discount my efforts nor Dr. Khurana's efforts in editing my original texts, therefore I haven't asked Dr. Khurana to take down the articles that I had co-authored. However, **I shall not be responsible in any capacity for any harm that the articles or Dr. Khurana's personal views bring to any individual or entity.**
+
 ---
-**Please be advised that the articles I refer to have been re-edited since their first publication without consulting me. They may no longer articulate my personal views. I have not been associated with Dr. Khurana since Jan 2018, and do not associate myself with any of his personal views or undertakings. 
-During my internship with Dr. Khurana, he was a scientist at the [Center for Scientific and Industrial Research-Central Drug Research Institute](https://cdri.res.in/). Shortly after my internship, he left the institute and undertook personal projects including a series of TEDx talks. I do not agree with his personal views and do not wish to be seen in association with him. 
-During my internship, I learned a lot about AI and the philosophical arguments about ethics. I also honed my English-writing skills and that has been of immense help in my personal and professional work. I neither wish to discount my efforts nor Dr. Khurana's efforts in editing my original texts, therefore I haven't asked Dr. Khurana to take down the articles that I had co-authored. However, I shall not be responsible in any capacity for any harm the articles or Dr. Khurana's personal views bring to any individual or entity.**
----
-1. [General Ethics in Artificial Intelligence](https://medium.com/@sukantkhurana/general-ethics-in-artificial-intelligence-1efe8d8b81f)
+1. [The great divide in AI](https://towardsdatascience.com/the-great-divide-in-ai-450bec3974e9)
 2. [Democratize Artificial Intelligence today for a better future tomorrow](https://medium.com/swlh/democratize-artificial-intelligence-today-for-a-better-future-tomorrow-fbb33e04b3f9)
-3. [https://towardsdatascience.com/the-great-divide-in-ai-450bec3974e9](https://towardsdatascience.com/the-great-divide-in-ai-450bec3974e9)
+3. [General Ethics in Artificial Intelligence](https://medium.com/@sukantkhurana/general-ethics-in-artificial-intelligence-1efe8d8b81f)
 4. [Society and AI: Mis-identification and Cultural implications](https://medium.com/@sukantkhurana/society-and-ai-mis-identification-and-cultural-implications-57d600b4adfe)
 5. [How ethical is Artificial Intelligence?](https://becominghuman.ai/how-ethical-is-artificial-intelligence-37ee034e7435)
-6. [Neanderthals could not find out off switch on humans, would humans be able to find one on artificial general intelligence (if it is ever invented)?](https://medium.com/@sukantkhurana/neanderthals-could-not-find-out-off-switch-on-humans-would-human-be-able-to-find-one-on-artificial-b4c70b7e7e3d)
+6. [Neanderthals could not find out off switch on humans, would humans be able to find one on artificial general intelligence (if it is ever invented)?](https://medium.com/@sukantkhurana/neanderthals-could-not-find-out-off-switch-on-humans-would-human-be-able-to-find-one-on-artificial-b4c70b7e7e3d) (The title and the majority of the content have been altered.)
+
+---
+
+Personally, I do not see AI from a lens of doom and gloom. In the last few years, and specifically since the popularisation of ChatGTP, there has been a great furore over AI. To me, AI represents a set of models that solve problems intelligently. There's nothing romantic or poetic about it. An excellent model---such as ChatGTP---does not automatically become an 'artificial general intelligence' (AGI) that beckons the end of humanity as we know it. AI is an incredibly handy tool that needs to be used with caution. Our models must be free of bias and ethically deployed. We need to understand our models better so that we don't misidentify or misattribute them.
+
 ---
