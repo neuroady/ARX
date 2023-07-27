@@ -9,6 +9,7 @@
 6. [Neanderthals could not find out off switch on humans, would humans be able to find one on artificial general intelligence (if it is ever invented)?](https://medium.com/@sukantkhurana/neanderthals-could-not-find-out-off-switch-on-humans-would-human-be-able-to-find-one-on-artificial-b4c70b7e7e3d)
 <br>
 <br>
+Caveat lector!<br>
 Please be advised that the articles I refer to have been re-edited since their first publication by Dr. Khurana. I have not been associated with <a href="https://scholar.google.com/citations?user=LiTpdBYAAAAJ">Dr. Khurana</a> since Feb 2018, and do not identify with his personal views. During my internship with Dr. Khurana, he was a research scientist at the <a href="https://cdri.res.in/">Center for Scientific and Industrial Research-Central Drug Research Institute</a>. Shortly after my internship ended, he left the institute and undertook personal projects including a series of TEDx talks. I do not agree with his views in those videos.<br><br>During my internship, I learned a lot about AI and the philosophical arguments on ethics. I also honed my English-writing skills and that has been of immense help in my personal and professional work. I neither wish to discount my efforts nor Dr. Khurana's efforts in editing my original texts, therefore I haven't asked Dr. Khurana to take down the articles that I had authored. However, <b>I shall not be responsible in any capacity for any harm that Dr. Khurana's personal views bring to any individual or entity.</b> <br>
 
 ---
